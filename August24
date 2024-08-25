@@ -1,11 +1,15 @@
 {
   "Visibility": "VISIBLE",
-  "Title": "Fixing error",
-  "Description": "Please wait until fixing error bug mlbb can't touch
-please wait until fix it😊",
-  "MainTextButton": "OKAY",
+  "Title": "NEW VERSION AUGUST 26",
+  "Description": "New version rankbooster fix bug ml can't touch 
+
+New features 
+🔰 Franco hook Aim
+🔰 Damage up 5x All hero
+🔰Anti lag 90 fps stable",
+  "MainTextButton": "UPDATE",
   "Cancelable": "true",
   "CancelButtonText": "Cancel",
   "DownloadLink": "https://t.me/leomodz01",
-  "Version": "1.1"
+  "Version": "2.2"
 }
